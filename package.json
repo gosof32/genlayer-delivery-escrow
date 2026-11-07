@@ -1,0 +1,13 @@
+{
+  "name": "genlayer-delivery-escrow",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "test:contract": "pytest",
+    "lifecycle": "node scripts/lifecycle-studionet.mjs"
+  },
+  "dependencies": {
+    "genlayer-js": "1.1.8"
+  }
+}

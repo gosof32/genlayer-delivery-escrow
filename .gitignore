@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+artifacts/
+.env
+.env.*
+*.key
+node_modules
+.venv/
+deployments/*.tmp
